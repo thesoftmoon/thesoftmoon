@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm thesoftmoon</h1>
 <h3 align="center">A passionate Fullstack Mobile Dev from Chile</h3>
 
-- 👨‍💻 All of my projects are available at [my more graphic portfolio](https://thesoftmoon.github.io/dev-personal-portfolio/)
+- 👨‍💻 Some of my projects are available at [my more graphic portfolio](https://thesoftmoon.github.io/dev-personal-portfolio/)
 
 - 💬 Ask me about **Swift, Java, Typescript, And anything about mobile development**
 
